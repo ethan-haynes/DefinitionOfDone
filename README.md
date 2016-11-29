@@ -9,7 +9,7 @@
   * Peer reviewed (or produced with pair programming) and meeting development standards
   * Relevant documentation/diagrams produced and/or updated
   * Remaining hours for task set to zero and task closed
-  * Demo Ready  
+  * Demo Ready
 
 ## Sprint Level
 ##### All Story Criteria met, and:
